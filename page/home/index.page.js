@@ -1,7 +1,6 @@
 import { TEXT_STYLE } from './index.style'
 
-const logger = DeviceRuntimeCore.HmLogger.getLogger('helloworld')
-
+const logger = DeviceRuntimeCore.HmLogger.getLogger('hello 1 word')
 Page({
   build() {
     logger.debug('page build invoked')

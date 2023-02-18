@@ -4,8 +4,8 @@ export const { width: DEVICE_WIDTH, height: DEVICE_HEIGHT } = hmSetting.getDevic
 
 export const TEXT_STYLE = {
   text: gettext('appName'),
-  x: px(42),
-  y: px(200),
+  x: px(0),
+  y: px(40),
   w: DEVICE_WIDTH - px(42) * 2,
   h: px(100),
   color: 0xffffff,
