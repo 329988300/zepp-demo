@@ -26,7 +26,8 @@
       "module": {
         "page": {
           "pages": [
-            "page/home/index.page"
+            "page/home/index.page",
+            "page/components/detail"
           ],
           "window": {
             "navigationBarBackgroundColor": "#ffffff",
@@ -49,7 +50,7 @@
           "deviceSource": 252
         }
       ],
-      "designWidth": 300
+      "designWidth": 194
     }
   },
   "i18n": {
